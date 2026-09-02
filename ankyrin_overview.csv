@@ -1,0 +1,43 @@
+﻿Protein Name;Origin organism;Origin host;Protein sequence retrieved from;Paper(s)
+ELP1;uncultured organism from sponge microbiome;Cymbastella coralliophila;paper itself;Reynolds & Thomas 2016
+ELP2;uncultured organism from sponge microbiome;C. concentrica;paper itself;Reynolds & Thomas 2016
+ELP3;uncultured organism from sponge microbiome;Tedania anhelans;paper itself;Reynolds & Thomas 2016
+AnkX;Legionella pneumophila;intracellular human pathogen;https://www.uniprot.org/uniprotkb/Q5ZXN6/publications;Pan et al. 2008
+AnkA-1;Anaplasma phagocytophilum homolog in Ehrlichia phagocytophila;intracellular human pathogen;GenBank: AAC25095.2;Caturegli et al., 2000
+AnkA-2;Anaplasma phagocytophilum homolog in Ehrlichia phagocytophila;intracellular human pathogen;GenBank: AAF04263.2;Caturegli et al., 2000
+Ankp;Ankyphage 3;Mediterranean sponge;translation of DNA sequence received from Alexi;Jahn et al., 2019
+unnamed ARP;Pseudovibrio sp. S9 isolated from intertidal sponge;Polymastia penicillus;my ANK pipeline with published genome;Alex & Atunes 2015
+PaAnkB;Pseudomonas aeruginosa;human & animal pathogen;https://www.ncbi.nlm.nih.gov/nuccore/U59457;Howell et al., 2000
+AbAnkB;Acinetobacter baumannii;human pathogen;https://www.rcsb.org/structure/9IQ8;Sung et al, 2024
+VC_ARP1;Vibrio cholerae T;human pathogen;my ANK pipeline with published genome;
+VV_ARP1;Vibrio vulnificus T;human & animal opportunistic pathogen;my ANK pipeline with published genome;
+VV_ARP2;Vibrio vulnificus T;human & animal opportunistic pathogen;my ANK pipeline with published genome;
+VV_ARP3;Vibrio vulnificus T;human & animal opportunistic pathogen;my ANK pipeline with published genome;
+VD_ARP1;Vibrio diabolicus T;marine bacterium;my ANK pipeline with published genome;Goudenege et al, 2014
+VH_ARP1;Vibrio harveyi T;marine pathogen / symbiont;my ANK pipeline with published genome;
+AqARP1;Chromatiales symbiont bacterium AqS1;sponge: Amphimedon queenslandica;my ANK pipeline with published genome;Gauthier et al 2016
+AqARP2;Chromatiales symbiont bacterium AqS1;sponge: Amphimedon queenslandica;my ANK pipeline with published genome;Gauthier et al 2016
+AqARP3;Chromatiales symbiont bacterium AqS1;sponge: Amphimedon queenslandica;my ANK pipeline with published genome;Gauthier et al 2016
+AqARP4;Chromatiales symbiont bacterium AqS1;sponge: Amphimedon queenslandica;my ANK pipeline with published genome;Gauthier et al 2016
+AqARP5;Chromatiales symbiont bacterium AqS1;sponge: Amphimedon queenslandica;my ANK pipeline with published genome;Gauthier et al 2016
+tANK;Thermoplasma volcanium (Archaea);marine vent archaeum;https://www.rcsb.org/structure/2RFM;Loew et al 2008
+SWI6_ANK;S. cerevisae;yeast;https://www.rcsb.org/structure/1SW6;Foord et al 1999
+HSARP1.1;Ca.Halichondribacter symbioticus;H. panicea;Susy bin 1 from Alexi;
+HSARP1.2;Ca.Halichondribacter symbioticus;H. panicea;Susy bin 1 from Alexi;
+HSARP1.3;Ca.Halichondribacter symbioticus;H. panicea;Susy bin 1 from Alexi;
+HSARP1.4;Ca.Halichondribacter symbioticus;H. panicea;Susy bin 1 from Alexi;
+HSARP1.5;Ca.Halichondribacter symbioticus;H. panicea;Susy bin 1 from Alexi;
+HSARP2.1;Ca.Halichondribacter symbioticus;H. panicea;Susy bin 2 from Alexi;
+HSARP2.2;Ca.Halichondribacter symbioticus;H. panicea;Susy bin 2 from Alexi;
+HSARP3.1;Ca.Halichondribacter symbioticus;H. panicea;Susy bin 3 from Alexi;
+HSARP3.2;Ca.Halichondribacter symbioticus;H. panicea;Susy bin 3 from Alexi;
+HSARP3.3;Ca.Halichondribacter symbioticus;H. panicea;Susy bin 3 from Alexi;
+HSARP4.1;Ca.Halichondribacter symbioticus;H. panicea;Susy bin 4 from Alexi;
+HSARP4.2;Ca.Halichondribacter symbioticus;H. panicea;Susy bin 4 from Alexi;
+HSARP4.3;Ca.Halichondribacter symbioticus;H. panicea;Susy bin 4 from Alexi;
+HSARP5.1;Ca.Halichondribacter symbioticus;H. panicea;Susy bin 5 from Alexi;
+HPARP1;Halichondria panicea;;ASG;
+HPARP2;Halichondria panicea;;ASG;
+HPARP3;Halichondria panicea;;ASG;
+HPARP4;Halichondria panicea;;ASG;
+HPARP5;Halichondria panicea;;ASG;
